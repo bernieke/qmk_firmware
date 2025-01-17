@@ -1,0 +1,1 @@
+/home/bernieke/git/bernieke/configuration/desktops/ponos/qmk/HOWTO.md
